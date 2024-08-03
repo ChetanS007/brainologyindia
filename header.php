@@ -1,5 +1,12 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+   <style type="text/css">
+      @media (max-width: 767px) {
+          .news-box{
+              width: 50%!important;
+          }
+         }
+      }
+   </style>
    <header id="masthead" class="site-header theme-header-4-alt-3 header-get-sticky header-color-white white-logo-enable">
       <div class="edublink-header-area edublink-navbar edublink-navbar-expand-lg">
          <div class="edublink-container-fluid">

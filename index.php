@@ -510,7 +510,7 @@
                                                                                     <li><i class="icon-25 icon-course"></i>674 Students</li>
                                                                                  </ul> -->
                                                                                  <div class="content course-meta">
-                                                                                    <h6 class="title"><a href="../courses/the-complete-python-bootcamp-from-zero-to-hero/index.html">How to Improve Interest and Concentration in Study ?</a></h6>
+                                                                                    <h6 class="title"><a href="#">How to Improve Interest and Concentration in Study ?</a></h6>
                                                                                  </div>
                                                                               </div>
                                                                            </div>
@@ -849,7 +849,7 @@
                                                                      <ul class="event-meta">
                                                                         <li><i class="fa fa-language"></i> Hindi </li>
                                                                      </ul>
-                                                                     <div class="read-more-btn"><a class="edu-btn btn-small btn-secondary" href="../events/navigating-the-future-of-business-education/index.html">Learn More<i class="icon-4"></i></a></div>
+                                                                     <div class="read-more-btn"><a class="edu-btn btn-small btn-secondary" href="#">Learn More<i class="icon-4"></i></a></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -858,7 +858,7 @@
                                                             <div class="eb-event-item eb-event-style-2">
                                                                <div class="inner">
                                                                   <div class="thumbnail">
-                                                                     <a href="../events/global-education-fall-meeting-for-everyone/index.html"><img decoding="async" src="wp-content/uploads/2023/01/course-77.jpg" alt="course-77" /></a>
+                                                                     <a href="#"><img decoding="async" src="wp-content/uploads/2023/01/course-77.jpg" alt="course-77" /></a>
                                                                      <div class="event-time"><span><i class="icon-33"></i>11:00 am - 1:00 pm</span></div>
                                                                   </div>
                                                                   <div class="content">
@@ -868,7 +868,7 @@
                                                                      <ul class="event-meta">
                                                                         <li><i class="fa fa-language"></i> Hindi </li>
                                                                      </ul>
-                                                                     <div class="read-more-btn"><a class="edu-btn btn-small btn-secondary" href="../events/navigating-the-future-of-business-education/index.html">Learn More<i class="icon-4"></i></a></div>
+                                                                     <div class="read-more-btn"><a class="edu-btn btn-small btn-secondary" href="#">Learn More<i class="icon-4"></i></a></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -1214,7 +1214,7 @@
                                           <div class="elementor-widget-wrap elementor-element-populated">
                                              <section class="elementor-section elementor-inner-section elementor-element elementor-element-230b563 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="230b563" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1223,7 +1223,7 @@
                                                          </div>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1236,7 +1236,7 @@
                                              </section> 
                                              <section class="elementor-section elementor-inner-section elementor-element elementor-element-230b563 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="230b563" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1245,7 +1245,7 @@
                                                          </div>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1262,7 +1262,7 @@
                                           <div class="elementor-widget-wrap elementor-element-populated">
                                              <section class="elementor-section elementor-inner-section elementor-element elementor-element-230b563 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="230b563" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1271,7 +1271,7 @@
                                                          </div>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1284,7 +1284,7 @@
                                              </section> 
                                              <section class="elementor-section elementor-inner-section elementor-element elementor-element-230b563 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="230b563" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1293,7 +1293,7 @@
                                                          </div>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" style="padding: 5px;" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1329,7 +1329,7 @@
                                           <div class="elementor-widget-wrap elementor-element-populated">
                                              <section class="elementor-section elementor-inner-section elementor-element elementor-element-230b563 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="230b563" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-8aa6ec6" data-id="8aa6ec6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-02d80d5 elementor-widget elementor-widget-image" data-id="02d80d5" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1338,7 +1338,7 @@
                                                          </div>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-06b6ef1" data-id="06b6ef1" data-element_type="column">
+                                                   <div class="elementor-column elementor-col-50  news-box elementor-inner-column elementor-element elementor-element-06b6ef1" data-id="06b6ef1" data-element_type="column">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-8a8c8b1 elementor-widget elementor-widget-image" data-id="8a8c8b1" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1352,7 +1352,7 @@
                                              <section class="elementor-section elementor-inner-section elementor-element elementor-element-230b563 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="230b563" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
                                                     
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-609a1dd" data-id="609a1dd" data-element_type="column">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-609a1dd" data-id="609a1dd" data-element_type="column">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-6571811 elementor-widget elementor-widget-image" data-id="6571811" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1361,7 +1361,7 @@
                                                          </div>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-609a1dd" data-id="609a1dd" data-element_type="column">
+                                                   <div class="elementor-column elementor-col-50 news-box elementor-inner-column elementor-element elementor-element-609a1dd" data-id="609a1dd" data-element_type="column">
                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                          <div class="elementor-element elementor-element-6571811 elementor-widget elementor-widget-image" data-id="6571811" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
@@ -1400,7 +1400,7 @@
                                              </div>
                                              <div class="elementor-element elementor-element-67a463a elementor-widget elementor-widget-edublink-button" data-id="67a463a" data-element_type="widget" data-widget_type="edublink-button.default">
                                                 <div class="elementor-widget-container">
-                                                   <div class="edublink-button-widget-wrapper"><a class="edublink-button-item edublink-button-style-five edublink-button-size-custom edublink-button-icon-position-after default-style" href="https://forms.gle/AFKWnmSLmTT61M1Y9">Rgister Now<i class="icon-4"></i></a></div>
+                                                   <div class="edublink-button-widget-wrapper"><a class="edublink-button-item edublink-button-style-five edublink-button-size-custom edublink-button-icon-position-after default-style" href="#">Rgister Now<i class="icon-4"></i></a></div>
                                                 </div>
                                              </div>
                                           </div>
