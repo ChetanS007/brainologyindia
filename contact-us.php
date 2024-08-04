@@ -313,7 +313,7 @@
          <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
          <?php include 'header.php';?>
 
-         <div class="edublink-page-title-area edublink-default-breadcrumb ">
+         <div class="edublink-page-title-area edublink-default-breadcrumb " style="background-image: url(../../../../../../../../../wp-content/themes/edublink/assets/images/contact-us.png);">
             <div class="edublink-container">
                <div class="edublink-page-title">
                   <h1 class="entry-title" style="color: #ffffff;">Contact Us</h1>
