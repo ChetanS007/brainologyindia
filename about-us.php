@@ -620,7 +620,7 @@
                                              <div class="elementor-element elementor-element-a4cc7c0 elementor-widget elementor-widget-edublink-video-popup" data-id="a4cc7c0" data-element_type="widget" data-widget_type="edublink-video-popup.default">
                                                 <div class="elementor-widget-container">
                                                    <div class="edublink-video-popup-wrapper edublink-video-popup-animation-continious edublink-video-popup-continious-type-custom-ripple-color edublink-video-popup-bg-enable" style="background-image: url(wp-content/uploads/2023/01/course-68.jpg)">
-                                                      <div class="edublink-video-popup-content"><a class="edublink-video-popup-icon" href="https://www.youtube.com/watch?v=m2m5Xx5T4No"><i aria-hidden="true" class="edublink icon-18"></i></a></div>
+                                                      <div class="edublink-video-popup-content"><a class="edublink-video-popup-icon" href="https://youtu.be/Aud-i7c0Y6M"><i aria-hidden="true" class="edublink icon-18"></i></a></div>
                                                    </div>
                                                 </div>
                                              </div>
